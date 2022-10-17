@@ -1,0 +1,158 @@
+
+
+
+/*global*/
+body { 
+
+    font-family:"montserrat", sans-serif ;
+    background-color:#D6EFED;
+    color:#333333;
+}   
+
+p{
+
+
+    line-height:2
+}
+
+h1,h2 {
+
+
+}
+
+
+a {
+    text-decoration:none;
+    color:#333333;
+}
+
+/*utilities*/
+
+.btn { 
+    width: 25px ;
+    
+    background-color:#a3ece6;
+    color:rgb(93, 99, 111);
+    font-size: 12px;
+    text-align: center;
+    margin: 27px;
+    padding: 5px; /* paddin is the margin between the text and the border*/
+    border-radius: 10px /*border makes the edges of the buttons round */
+    
+}
+
+.btn-small{
+    font-size:14px;
+    width:150px;
+    margin:auto;
+    margin-top: 25px;
+
+}
+
+/*header*/
+
+/*main*/
+
+
+
+.top-container {
+    text-align: center;
+}
+
+.Maria {
+    font-size:30px;
+    text-transform: Uppercase;
+    letter-spacing: 3px;
+    text-align:center;
+    text-shadow: 2px 2px #ffffff;
+}
+
+.future {
+    margin-bottom: 50px;
+}
+
+.myinfo {
+    font-size: 20px;
+
+    margin-top: 50px;
+
+}
+    
+.middle-container {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+    color: 333333;
+    line-height: 2;
+    Width: 45%;
+}
+
+ul {
+    text-align:center;
+    list-style-position:inside;
+    
+}
+
+.second {
+    margin-top: 50px;
+}
+
+.three {
+
+    margin-top: 50px;
+    text-align: center;
+    line-height: 2;
+}
+
+.socialmedia {
+   
+}
+
+
+a:link {
+    color: rgb(102, 134, 151);
+  }
+  
+
+  a:visited {
+    color: black;
+  }
+  
+
+  a:hover {
+    color: rgb(29, 181, 211);
+  }
+  
+
+  a:active {
+    color: rgb(79, 201, 238);
+  }
+
+
+
+  .connect-with-me {
+    width: 25px ;
+    background-color:#a3ece6;
+    color:rgb(93, 99, 111);
+    font-size: 12px;
+    text-align: center;
+    margin: 27px;
+    padding: 5px; /* paddin is the margin between the text and the border*/
+    border-radius: 10px /*border makes the edges of the buttons round */
+    }
+ 
+.email {
+    margin-top:10px;
+} 
+
+.table{
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.about-me {
+    margin-top: 50px;
+    display:block;
+    text-align:center;
+}
